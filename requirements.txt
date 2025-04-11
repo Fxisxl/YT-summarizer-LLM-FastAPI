@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 streamlit
 langchain
 langchain_astradb
@@ -13,4 +14,20 @@ cassio
 cassandra-driver
 fastapi
 uvicorn
+=======
+streamlit
+langchain
+langchain_astradb
+langchain_chroma
+langchain_community
+langchain_core
+langchain_groq
+langchain_huggingface
+langchain_text_splitters
+python-dotenv
+cassio
+cassandra-driver
+fastapi
+uvicorn
+>>>>>>> 9db774fe4982159e82f47531c87dd43c7c57a36d
 sse_starlette
