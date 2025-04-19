@@ -46,7 +46,7 @@ This FastAPI backend powers the AI Study Assistant app, enabling intelligent, se
 - **FastAPI** - High-performance Python API framework
 - **Pydantic** - Data validation
 - **Firestore** - Realtime chat/message storage
-- **OpenAI API** - LLM processing (e.g., GPT-4)
+- **Opensource LLMs** - LLM processing (e.g., deepseek R1)
 - **CassIO + AstraDB** *(optional)* - Vector DB for RAG
 - **Uvicorn** - ASGI server
 
@@ -90,7 +90,7 @@ FIREBASE_CLIENT_EMAIL=...
 ---
 
 ## 🌐 Used With
-- Frontend: [Next.js App](https://github.com/your-username/ai-study-assistant-nextjs)
+- Frontend: [Next.js App](https://github.com/Fxisxl/ai-study-assistant-nextjs)
 - PDF Export: html2pdf.js
 - Markdown Rendering: ReactMarkdown + rehype-highlight
 
